@@ -1,11 +1,34 @@
 [
-  { "name": "admin", "color": "#B4BED1" },
-  { "name": "bug", "color": "#EF4E7B" },
-  { "name": "design", "color": "#6DBA82" },
-  { "name": "development", "color": "#F79533" },
-  { "name": "future", "color": "#A166AB" },
-  { "name": "help wanted", "color": "#1098AD" },
-  { "name": "idea", "color": "#5C7EBF" },
-  { "name": "note", "color": "#F37055" }
-  { "name": "note", "color": "#F37055" }
-]
+	{
+	  "name": "admin",
+	  "color": "#B4BED1"
+	},
+	{
+	  "name": "bug",
+	  "color": "#EF4E7B"
+	},
+	{
+	  "name": "design",
+	  "color": "#6DBA82"
+	},
+	{
+	  "name": "development",
+	  "color": "#F79533"
+	},
+	{
+	  "name": "future",
+	  "color": "#A166AB"
+	},
+	{
+	  "name": "help wanted",
+	  "color": "#1098AD"
+	},
+	{
+	  "name": "idea",
+	  "color": "#5C7EBF"
+	},
+	{
+	  "name": "note",
+	  "color": "#F37055"
+	}
+  ]
